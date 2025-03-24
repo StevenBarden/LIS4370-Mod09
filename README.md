@@ -2,7 +2,7 @@
 
 https://outlync.wordpress.com/2025/03/24/244/
 
-https://github.com/StevenBarden/LIS4370-Mod09/blob/main/README.md
+https://github.com/StevenBarden/LIS4370-Mod09/
 
 Demonstrate three types of data visualizations using the mtcars dataset.
 
